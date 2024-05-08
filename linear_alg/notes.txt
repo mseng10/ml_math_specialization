@@ -1,0 +1,18 @@
+Linear Systems
+==============
+complete (non-singular) - unique solution to system
+redundant  (singular) - infinite solutions
+contradictory (singular) - no solutions
+
+- singularity is not determined by the output constants!!!
+- singular matrices can associate the params of the matrix (e.g. a = -b)
+
+- if a row of a matrix can equate another, then linear dependence (singular)
+- otherwise independence (non-singular)
+
+determinant (2x2 matrix) -> ad - bc = 0 ([[a,b], [c,d]])
+ - if 0 --> singular (dependence)
+ - else --> non-singular (independence)
+ - (3x3 matrix) = a x det([[e,f],[h,i]]) - b x det([[d,f],[g,i]]) + c x det([[d,e],[g,h]])
+   + [[a,b,c],[d,e,f],[g,h,i]]
+ 
