@@ -1,5 +1,5 @@
-Linear Systems
-==============
+Linear Equations (W1)
+=====================
 complete (non-singular) - unique solution to system
 redundant  (singular) - infinite solutions
 contradictory (singular) - no solutions
@@ -15,4 +15,15 @@ determinant (2x2 matrix) -> ad - bc = 0 ([[a,b], [c,d]])
  - else --> non-singular (independence)
  - (3x3 matrix) = a x det([[e,f],[h,i]]) - b x det([[d,f],[g,i]]) + c x det([[d,e],[g,h]])
    + [[a,b,c],[d,e,f],[g,h,i]]
- 
+
+Solving a System of Linear Equations (W2)
+=========================================
+- singular (redundant) => get 2 subtracted equations that cause 0=0
+- singular (contradictory) => get 2 subtracted equations that cause (e.g. 0=2)
+- use the elimination method (review)
+  + row reduction (gaussian)
+
+row echelon form
+ - diagnonal of 1/0's
+ - everything below diagnonal is 0
+ - everything above is whatever
