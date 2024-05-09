@@ -29,3 +29,17 @@ row echelon form
  - everything above is whatever
 
 Rank - 
+
+Vector Algebra
+==============
+norm (a,b) = sqrt(a**2 + b**2)
+l1 norm = sum of absolute value of components
+ - |a| + |b|
+   + v = [a,b]
+l2 noprm = sqrt(a**2 + b**2)
+
+sum - [a,b], [c,d] = [a+c, b+d]
+subtraction - [a,b], [c,d] = [a-c, b-d]
+scalar multiplicat - [a,b]*c = [a*c, b*c]
+dot product - you know.
+multiplication - 
