@@ -27,3 +27,5 @@ row echelon form
  - diagnonal of 1/0's
  - everything below diagnonal is 0
  - everything above is whatever
+
+Rank - 
