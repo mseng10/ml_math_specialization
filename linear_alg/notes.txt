@@ -42,4 +42,11 @@ sum - [a,b], [c,d] = [a+c, b+d]
 subtraction - [a,b], [c,d] = [a-c, b-d]
 scalar multiplicat - [a,b]*c = [a*c, b*c]
 dot product - you know.
-multiplication - 
+multiplication - matrix of dot products
+distance between 2 vectors - swrt((a-c)**2 + (b-d)**2)
+
+
+identity matrix - diagnonal of ones (rest are 0s)
+ - matrix inverse * matrix = identity matrix
+ - matrix has an inverse if it's non-singular
+ - matrix does not have an inverse if it's singular
