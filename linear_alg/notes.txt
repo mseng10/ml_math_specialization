@@ -50,3 +50,21 @@ identity matrix - diagnonal of ones (rest are 0s)
  - matrix inverse * matrix = identity matrix
  - matrix has an inverse if it's non-singular
  - matrix does not have an inverse if it's singular
+
+PCA
+===
+- dimension of linear transformation = Rank
+- area of a linear transformation = determinant
+- Det(AB) = det(A)det(B)
+   + if det(B) = 0 -> det(AB) = 0
+- det(A^-1) = 1 / det(A)
+
+span - everywhere a set of vectors can reach
+bases - minimum spanning set
+ - satifies - 1) span in vector space, 2) are linearly independent
+ - bases = dimension
+vectors that are dependent can be expressed as a combination
+ - linear ind. - no function can be made between vectors
+ - linear dep. - function can be made between vectors
+
+eigenbases - 
