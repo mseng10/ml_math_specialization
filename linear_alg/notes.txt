@@ -67,4 +67,27 @@ vectors that are dependent can be expressed as a combination
  - linear ind. - no function can be made between vectors
  - linear dep. - function can be made between vectors
 
-eigenbases - 
+eigenbases - creates parallel transformations
+ -  matrix multiplication = scalar multiplication
+ - simpler and less expensive to compute
+ - finding eigen vectors between 2 matrices -> subtract and set diff to 0
+    + needs to be singular, verify with determinant
+
+dimensionality reduction - reduce number of dimnesions
+PCA - A_p = M*V
+ - keep spread in the transformation
+ - makes dataset easier to manage, simpler visualization
+
+covariance - is like variance, but takes in y variables
+ - the direction of the relationship between 2 variables
+ - negative value = negative covariance (duhh)
+ - eigen vectors = direction
+ - eigen values = magnitude
+
+PCA steps:
+1) Create X input matrix
+2) Center the data (subtract means of columns)
+3) Calculate covariance matrix
+4) Calculate eigen vectors and eigen values
+5) Create projection matrix v
+6) Project Centered Data
