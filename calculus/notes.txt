@@ -24,3 +24,7 @@ scalar - f = cg --> f'x = (c)g'x
 sum rules - f = g + h --> f' = g' + h'
 product rule - f = gh --> f' = g'h + gh'
 chain rule! - g(h(x)) --> dg/dh * dh/dx
+
+optimization
+- square loss
+- log loss
