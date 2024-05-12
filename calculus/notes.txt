@@ -1,0 +1,26 @@
+Derivatives (easy review)
+ - slope = delta(y) / delta(x) (duhhhhh)
+ - dy/dx - slope of the tangent line (instantansious rate of change)
+   + slope of 0 = maximum or minimum of a function (local)
+ - derivative of constant = 0 (duhh)
+ - derivative of line (y = mx + b) -> m (duhh)
+ - derivative of quadratic (y = x**2) -> 2x (duhh)
+ - derivative of cubic (y = x**3) -> 3x**2 (duhh)
+ - derivative of 1/x = x ** -1 -> -1x**-2
+ - derivative of power function (nx**n-1)
+ - derivative of inverse g'(y) = 1 / f'(x)
+ - derivative of trig function (duh)
+ - derivative of e**x = e**x
+ - derivative of log(x) = 1/(x)
+
+- differential function (derivative exists at every point)
+- non-differential function (e.g. funciton has a corner)
+  + cusp or corner
+  + piece wise function as well
+  + vertical tangents
+
+properties:
+scalar - f = cg --> f'x = (c)g'x
+sum rules - f = g + h --> f' = g' + h'
+product rule - f = gh --> f' = g'h + gh'
+chain rule! - g(h(x)) --> dg/dh * dh/dx
