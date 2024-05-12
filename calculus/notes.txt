@@ -28,3 +28,14 @@ chain rule! - g(h(x)) --> dg/dh * dh/dx
 optimization
 - square loss
 - log loss
+
+Partial Derivatives
+ - treat other variables as constant!
+
+gradient - nebula f = [af/ax, af/ay]
+ - matrix of partial derivatives
+ - minimum is when partial derivatives are 0
+
+gradient descent - find the optimal derivate where we have a minima (duhh)
+ - minimize difference between prediced and expected
+ - 
