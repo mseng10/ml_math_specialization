@@ -38,4 +38,4 @@ gradient - nebula f = [af/ax, af/ay]
 
 gradient descent - find the optimal derivate where we have a minima (duhh)
  - minimize difference between prediced and expected
- - 
+ - move in direction of the gradient
