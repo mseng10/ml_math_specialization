@@ -1,5 +1,1 @@
-Lets get the record straight... I have a mathematics minor and I know math (lol)!!!
-
-I'm taking this specialization to brush up on my calculus, statistics and linear algebra for my own sake in a future certification.
-
-Thanks for checking out my repo!
+I'm here to set the record straight: armed with a mathematics minor, I've got a solid grasp on the intricacies of math (and a good laugh to go with it!). Currently, I'm diving into a specialized program to hone my skills in calculus, statistics, and linear algebra, all in preparation for an upcoming certification. Thanks for dropping by my repository!
