@@ -39,3 +39,8 @@ gradient - nebula f = [af/ax, af/ay]
 gradient descent - find the optimal derivate where we have a minima (duhh)
  - minimize difference between prediced and expected
  - move in direction of the gradient
+
+Neural Networks!
+ - ex. y = w_1*x_1 + b (find weights w_1 and b that optimize y (bing bong))
+ - loss function: mean squared loss (mimize difference between predicted and actual)
+ - 
