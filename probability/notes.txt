@@ -15,3 +15,14 @@ Conditional Probability - P(B | A) = P(B) (when independence)
 
 Bayes Theorem - 
  - P(A) x P(B | A) / (P(A) x P(B | A) + P(A') x P(B | A')
+ - prior - 
+ - event - 
+ - posterior
+
+Naive Bayes Theorem - assume independence amongst predictors
+ - way to shorten number of calculations
+
+Random Variables
+ - discrete - finite number of values
+ - continuous - infinite number of values
+
