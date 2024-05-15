@@ -26,3 +26,14 @@ Random Variables
  - discrete - finite number of values
  - continuous - infinite number of values
 
+Probability Distribution
+ - discrete 
+    + PMF = P_x(X)
+
+binomial distribution - (N X) p**x * (1-p)**n-x
+ - x is event
+ - n is total events
+
+bernoulli distribution - P (x) - probability of success
+
+ 
