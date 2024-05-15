@@ -12,3 +12,6 @@ Product Rule - P(A and B) = P(A) x P(B)
  - assuming independence
 
 Conditional Probability - P(B | A) = P(B) (when independence)
+
+Bayes Theorem - 
+ - P(A) x P(B | A) / (P(A) x P(B | A) + P(A') x P(B | A')
