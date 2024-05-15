@@ -1,0 +1,14 @@
+What is probability? (hmmmm I wonder)
+
+compliment rule - P(A') = 1 - P(A)
+ - opposite.. duhh
+
+Disjoit Sum - P(A U B) = P(A) + P(B)
+ - mutually exclusive
+Join Sum (when not disjoin) - P(A U B) =  P(A) + P(B) - P(A and B)
+ - non-mutually exclusive
+
+Product Rule - P(A and B) = P(A) x P(B)
+ - assuming independence
+
+Conditional Probability - P(B | A) = P(B) (when independence)
