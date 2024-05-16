@@ -36,4 +36,19 @@ binomial distribution - (N X) p**x * (1-p)**n-x
 
 bernoulli distribution - P (x) - probability of success
 
- 
+PDF - f_x(X) - continuous values
+ - P(a < X < b) = area under f_x(X) 
+
+Cumulative Distribution Function (CDF)
+ - sum of all probabilities up to X
+ - X=N -> 1
+ - P(X <= x) = F_X(X)
+
+Uniform Distribution
+ - CDF 
+   + 0 X < 
+   + x-a/b-a  a<=x<b
+   + 1 b <=x
+
+Normal Distribution (Gaussian Distribution)
+ - 
