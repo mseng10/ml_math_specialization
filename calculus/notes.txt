@@ -44,3 +44,6 @@ Neural Networks!
  - ex. y = w_1*x_1 + b (find weights w_1 and b that optimize y (bing bong))
  - loss function: mean squared loss (mimize difference between predicted and actual)
  - 
+
+Newtons Method
+ - 
